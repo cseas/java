@@ -5,9 +5,9 @@ import java.awt.event.*;
 import java.applet.*;
 
 /*
-    <applet code="AdapterDemo" width=300 height=100>
-    </applet>
- */
+<applet code="AdapterDemo" width=300 height=100>
+</applet>
+*/
 
 public class AdapterDemo extends Applet {
     public void init() {

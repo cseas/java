@@ -2,4 +2,5 @@
 Collection of programs covering Java concepts.
 
 This repository contains the following programs:
-* [Adapter Classes](src/AdapterDemo.java)
+- [Multiple Inheritance](src/MultipleInheritance.java)
+- [Adapter Classes](src/AdapterDemo.java)
